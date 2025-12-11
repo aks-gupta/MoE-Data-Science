@@ -6,3 +6,9 @@ https://github.com/ruc-datalab/DeepAnalyze
 
 ### Evaluation Benchmark
 https://datascibench.github.io/
+
+### Training Data
+`synthetic_all.jsonl`
+
+### Training File
+`train_qwen_moe.py`
